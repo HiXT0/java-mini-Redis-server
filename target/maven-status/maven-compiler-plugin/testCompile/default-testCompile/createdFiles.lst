@@ -1,0 +1,10 @@
+com\miniredis\storage\DatabaseTest.class
+com\miniredis\persistence\AofPersistenceTest.class
+com\miniredis\server\ServerIntegrationTest.class
+com\miniredis\expiry\ExpirationTest.class
+com\miniredis\storage\DatabaseConcurrencyTest.class
+com\miniredis\persistence\PersistenceOrderingTest.class
+com\miniredis\command\CommandRegistryTest.class
+com\miniredis\server\ServerConcurrencyTest.class
+com\miniredis\persistence\AofPersistenceTest$Store.class
+com\miniredis\support\TestClient.class

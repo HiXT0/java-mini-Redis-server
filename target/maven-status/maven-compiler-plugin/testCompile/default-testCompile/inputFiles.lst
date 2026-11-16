@@ -1,0 +1,9 @@
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\command\CommandRegistryTest.java
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\expiry\ExpirationTest.java
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\persistence\AofPersistenceTest.java
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\persistence\PersistenceOrderingTest.java
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\server\ServerConcurrencyTest.java
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\server\ServerIntegrationTest.java
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\storage\DatabaseConcurrencyTest.java
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\storage\DatabaseTest.java
+C:\Users\Acer\mini-redis\src\test\java\com\miniredis\support\TestClient.java
